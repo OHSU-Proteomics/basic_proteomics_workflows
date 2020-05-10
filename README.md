@@ -12,7 +12,7 @@ A walk through of basic proteomics workflows in use at the OHSU PSR core.
 
 ***
 
-![slide 1](images/Slide1.png)
+![slide 1](images/Slide1.PNG)
 
 _Slide 1_
 
