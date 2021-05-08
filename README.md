@@ -124,9 +124,9 @@ _Slide 14_
 
 Please refer to the more detailed slide set on [TMT labeling for quantitative experiments](https://github.com/pwilmart/TMT_overview_2020).
 
-Please refer to the more detailed slide set on LC-MS/MS analysis.
+Please refer to the more detailed slide set on [LC-MS/MS analysis](https://github.com/OHSU-Proteomics/LC-MSMS).
 
-Please refer to the more detailed slide set on Data Analysis.
+Please refer to the more detailed slide set on [Data Analysis](https://ohsu-proteomics.github.io/Data_Analysis_Overview/).
 
 ***
 
